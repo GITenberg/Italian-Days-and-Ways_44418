@@ -1,0 +1,33 @@
+_repo: Italian-Days-and-Ways_44418
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44418-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Wharton, Anne Hollingsworth
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '32987'
+    url: http://www.gutenberg.org/2009/agents/32987
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Hollingsworth_Wharton
+description: ''
+gutenberg_issued: '2013-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44418'
+  lccn: '06041526'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Description and travel'
+tableOfContents: La Superba in the clouds -- Along the Riviera -- Captured by a cabman
+  -- An exciting drive -- Bella Roma -- A poet's corner -- Antiquities and orange-blossoms
+  -- Via Appia -- Tu es Petrus -- Vale Roma -- Short journeys -- An Umbrian idyl --
+  A Sunday in Assisi -- The City of Flowers -- An earthly Paradise -- Fiesole -- Haps
+  and Happenings -- Angela's letter.
+title: Italian Days and Ways
+url: http://www.gutenberg.org/ebooks/44418
