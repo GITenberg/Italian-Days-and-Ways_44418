@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32987
     wikipedia: http://en.wikipedia.org/wiki/Anne_Hollingsworth_Wharton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44418#Italian-Days-and-Ways
 gutenberg_issued: '2013-12-13'
 gutenberg_type: Text
 identifiers:
